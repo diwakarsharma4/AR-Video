@@ -9,7 +9,7 @@ This app projects a video on a predefined image and it looks like the video is p
 
 Target image to be used :
 
-<img src="https://user-images.githubusercontent.com/101266746/176253702-23f07226-9e25-498c-a681-9c50ea709758.jpeg" width="100">
+<img src="https://user-images.githubusercontent.com/101266746/176253702-23f07226-9e25-498c-a681-9c50ea709758.jpeg" width="400">
 
 #----------------------------------------------------------------------------------------------------------------
 DEMONSTRATION :
