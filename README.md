@@ -1,10 +1,10 @@
 # AR-Video
-This app projects a video on a predefined image and it looks like the video is playing in real world environment.
+• This app projects a video on a predefined image and it looks like the video is playing in real world environment.
 
-1.Download and import files in unity project.
-2.Deploy as an android application.
-3.Download the target image provided.
-4.After Installation launch the application and face the target image in front of the device camera.
+1.Download and import files in unity project.<br/>
+2.Deploy as an android application.<br/>
+3.Download the target image provided.<br/>
+4.After Installation launch the application and face the target image in front of the device camera.<br/>
 
 Target image to be used :
 
